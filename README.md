@@ -1,12 +1,12 @@
-# Smarkets test
+# Login page (partial)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Implementation notes
 - I have not cleaned up the login page to production state by far, due to time constraints.
 However, it should be understandable how I would progress to finish it. For that purpose I also diverted from the UI required.
-- The code would need cleanup, the LoginForm is very long an in production I would split it into components
-- In low size screen resolution it would make sense to make the sign in button full width and put it below the forgot password
+- The code would need cleanup, the LoginForm is very long and in production I would split it into components
+- In low resolution screens it would make sense to make the sign in button full width and put it below the forgot password
 - Login action calls delay and randomly select success or failure (see /src/containers/LoginPage/saga.ts). Failure would just put error on password field,
 success is ignored.
 - I did not provide aria https://www.w3.org/TR/using-aria/
