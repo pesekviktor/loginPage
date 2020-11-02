@@ -1,0 +1,13 @@
+{
+  "app.containers.HomePage.header": "Sign in",
+  "app.containers.HomePage.username": "Email or Phone *",
+  "app.containers.HomePage.password": "Password *",
+  "app.containers.HomePage.forgotPassword": "Forgot password?",
+  "app.containers.HomePage.createAccount": "Create an account",
+  "app.containers.HomePage.selectTheme": "Select theme",
+  "app.containers.HomePage.light": "Light",
+  "app.containers.HomePage.dark": "Dark",
+  "app.containers.HomePage.selectLanguage": "Select languag",
+  "app.containers.HomePage.cs": "Czech",
+  "app.containers.HomePage.en": "English"
+}

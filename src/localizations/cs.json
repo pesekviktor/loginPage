@@ -1,0 +1,13 @@
+{
+  "app.containers.HomePage.header": "Přihlásit se",
+  "app.containers.HomePage.username": "Jmen",
+  "app.containers.HomePage.password": "Heslo",
+  "app.containers.HomePage.forgotPassword": "Obnovit heslo",
+  "app.containers.HomePage.createAccount": "Novy ucet",
+  "app.containers.HomePage.selectTheme": "vyber tema",
+  "app.containers.HomePage.light": "svetle",
+  "app.containers.HomePage.dark": "tmave",
+  "app.containers.HomePage.selectLanguage": "vyber jazyk",
+  "app.containers.HomePage.cs": "cesky",
+  "app.containers.HomePage.en": "anglicky"
+}
